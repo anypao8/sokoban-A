@@ -1,0 +1,12 @@
+
+public class Tiempo
+{
+    private int segundo;
+    private int minuto;
+
+    public void tiempo(int segundo,int minuto)
+    {
+    this.segundo=segundo;
+    this.minuto=minuto;
+    }
+}
